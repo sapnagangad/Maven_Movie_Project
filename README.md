@@ -1,6 +1,6 @@
 # 🍿 Maven Movies Data Exploration  
 
-![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+![Project Banner](https://img.freepik.com/premium-vector/cinema-production-process-tiny-cameraman-making-shooting-movie-with-happy-family-studio-flat-vector-illustration_178650-41408.jpg?semt=ais_hybrid&w=740&q=80)
 
 # 🎬 Rental Movies Business Data Analysis  
 
