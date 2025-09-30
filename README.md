@@ -1,6 +1,6 @@
 # 🍿 Maven Movies Data Exploration  
 
-![Project Banner](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeNoC1DRh5YEr-Amv4Z16SWnK0S3D4xrW-L3DVnPlgA57vXziE)
+![Project Banner](https://cdn.vectorstock.com/i/750p/76/37/movie-production-crew-shooting-vector-58417637.avif)
 
 # 🎬 Rental Movies Business Data Analysis  
 
