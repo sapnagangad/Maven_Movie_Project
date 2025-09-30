@@ -149,4 +149,4 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/Mavenmovies.git
+   git clone https://github.com/sapnagangad/Mavenmovies.git
