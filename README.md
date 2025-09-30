@@ -1,5 +1,7 @@
 # 🍿 Maven Movies Data Exploration  
 
+![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+
 # 🎬 Rental Movies Business Data Analysis  
 
 ![Project Banner](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql)  
