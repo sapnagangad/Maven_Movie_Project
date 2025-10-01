@@ -78,7 +78,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Film List](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/TITLE_CATEGORY_LANGUAGE.png)  
 
 ### 7. Popularity of Rentals (Frequency Analysis)  
-![Rental Popularity](images/popularity.png)  
+![Rental Popularity](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/POPULARITY.png)  
 
 ### 8. Top 10 Highest Grossing Films  
 ![Revenue per Film](images/REVENUE.png)  
