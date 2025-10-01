@@ -84,10 +84,10 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Revenue per Film](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/REVENUE_PER_MOVIE.png)  
 
 ### 9. Customer with the Highest Spending  
-![Most Spending Customer](images/MOST_SPENDING_CUSTOMER.png)  
+![Most Spending Customer](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/MOST_SPENDING_CUSTOMER.png)  
 
 ### 10. Revenue Comparison by Store  
-![Highest Revenue Store](images/MOST_REVENUE.png)  
+![Highest Revenue Store](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/MOST_REVENUE.png)  
 
 ### 11. Monthly Rental Trends  
 ![Rentals Per Month](images/RENTALS_PER_MONTH.png)  
