@@ -105,13 +105,13 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Payments Over $5](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/PAYMENTS_OVER_%245.png)  
 
 ### 16. Films Featuring "Behind the Scenes" Special Features  
-![Behind the Scenes Films](images/BTS.png)  
+![Behind the Scenes Films](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Behind_The_Scenes.png)  
 
 ### 17. Distinct Ratings and Their Counts  
-![Unique Ratings](images/UNI_MOVIES_RATINGS_&_NO_OF_MOVIES.png)  
+![Unique Ratings](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RATINGWISE_MOVIES.png)  
 
 ### 18. Titles Classified by Rental Duration  
-![Rental Duration Count](images/SLICED_BY_RENTAL_RATE.png)  
+![Rental Duration Count](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)  
 
 ### 19. Ratings vs Length and Rental Duration  
 ![Ratings and Rental Duration](images/COMPARE_WITH_RENTAL_DURATION.png)  
