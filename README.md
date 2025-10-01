@@ -63,7 +63,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Customer Info](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CUSTOMER_TABLE.png)  
 
 ### 2. Movies Priced at $0.99 Rental Rate  
-![Cheapest Rental](images/CHEAPEST_RENTAL.png)  
+![Cheapest Rental](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CHEAPEST_RENTAL.png)  
 
 ### 3. Distribution of Rental Rates  
 ![Rental Rate Distribution](images/TOTAL_NO_OF_MOVIES.png)  
