@@ -123,10 +123,10 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Low Rental Customers](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Less_15.png)  
 
 ### 22. Longest Films Sorted by Length and Rental Rate  
-![Longest Films](images/longestfilms_sort.png)  
+![Longest Films](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Longest_film.png)  
 
 ### 23. Categorization of Movies Based on Length  
-![Movies Categorized by Length](images/SLICED_BY_RENTAL_RATE.png)  
+![Movies Categorized by Length]()  
 
 ### 24. Movie Recommendations by Age Segment  
 ![Age-Based Recommendations](images/FIT_FOR_RECOMMENDATION.png)  
@@ -138,7 +138,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Actor Movie Count](images/NO_OF_FILMS_BY_ACTOR.png)  
 
 ### 27. Actors Appearing per Film Title  
-![Actors per Title](images/ACTOR_ASSOCIATED_WITH_TITLE.png)  
+![Actors per Title](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Longest_film.png)  
 
 ### 28. Staff and Advisor Information  
 ![Staff and Advisors](images/UNION.png)  
