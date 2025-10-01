@@ -50,7 +50,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 
 ---
 
-# 📂 SQL Queries & Results  
+# 📂 Queries & Results  
 
 ### 1. Customer Details for Marketing Campaigns  
 ![Customer Info](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/REWARD_VIA_EMAIL.png)  
