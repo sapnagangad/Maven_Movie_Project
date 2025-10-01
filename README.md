@@ -60,7 +60,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 # 📂 SQL Queries & Results  
 
 ### 1. Customer Details for Marketing Campaigns  
-![Customer Info](images/email.png)  
+![Customer Info](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CUSTOMER_TABLE.png)  
 
 ### 2. Movies Priced at $0.99 Rental Rate  
 ![Cheapest Rental](images/CHEAPEST_RENTAL.png)  
