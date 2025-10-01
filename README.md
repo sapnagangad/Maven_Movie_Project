@@ -135,13 +135,13 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Films in Inventory](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/FILM_INVENTORY.png)  
 
 ### 26. Number of Movies per Actor  
-![Actor Movie Count](images/NO_OF_FILMS_BY_ACTOR.png)  
+![Actor Movie Count](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/ACTORS_NUMBER_OF_FILMS.png)  
 
 ### 27. Actors Appearing per Film Title  
-![Actors per Title](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Longest_film.png)  
+![Actors per Title](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/ACTOR_ASSOCIATED_WITH_TITLE.png)  
 
 ### 28. Staff and Advisor Information  
-![Staff and Advisors](images/UNION.png)  
+![Staff and Advisors](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/UNION.png)  
 
 ---
 
