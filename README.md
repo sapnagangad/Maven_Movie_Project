@@ -2,14 +2,7 @@
 
 ![Project Banner](https://cdn.vectorstock.com/i/750p/76/37/movie-production-crew-shooting-vector-58417637.avif)
 
-# 🎬 Rental Movies Business Data Analysis  
-
-![Project Banner](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql)  
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=for-the-badge)  
-![Business](https://img.shields.io/badge/Business%20Insights-Movie%20Rentals-green?style=for-the-badge)  
-
 ---
-
 
 ## 🔎 Introduction  
 The **Maven Movies SQL Project** dives into a classic movie rental database to uncover meaningful insights.  
@@ -60,7 +53,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 # 📂 SQL Queries & Results  
 
 ### 1. Customer Details for Marketing Campaigns  
-![Customer Info](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CUSTOMER_TABLE.png)  
+![Customer Info](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/REWARD_VIA_EMAIL.png)  
 
 ### 2. Movies Priced at $0.99 Rental Rate  
 ![Cheapest Rental](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CHEAPEST_RENTAL_%240.99.png)  
