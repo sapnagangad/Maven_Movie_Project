@@ -126,13 +126,13 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Longest Films](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Longest_film.png)  
 
 ### 23. Categorization of Movies Based on Length  
-![Movies Categorized by Length]()  
+![Movies Categorized by Length](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)  
 
 ### 24. Movie Recommendations by Age Segment  
-![Age-Based Recommendations](images/FIT_FOR_RECOMMENDATION.png)  
+![Age-Based Recommendations](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RECOMMENDATION_SYSTEM.png)  
 
 ### 25. Films Available in Inventory  
-![Films in Inventory](images/FILMS_IN_INVENTORY.png)  
+![Films in Inventory](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/FILM_INVENTORY.png)  
 
 ### 26. Number of Movies per Actor  
 ![Actor Movie Count](images/NO_OF_FILMS_BY_ACTOR.png)  
