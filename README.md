@@ -69,10 +69,10 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Rental Rate Distribution](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)  
 
 ### 4. Most Frequent Movie Rating  
-![Rating Count](images/rating_wise_count.png)  
+![Rating Count](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RATING_WISE_COUNT.png)  
 
 ### 5. Store-Wise Rating Patterns  
-![Rating per Store](images/rating_to_store.png)  
+![Rating per Store](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RATING_TO_STORE.png)  
 
 ### 6. Film List by Title, Category, and Language  
 ![Film List](images/TLC.png)  
