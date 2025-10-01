@@ -114,13 +114,13 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Rental Duration Count](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)  
 
 ### 19. Ratings vs Length and Rental Duration  
-![Ratings and Rental Duration](images/COMPARE_WITH_RENTAL_DURATION.png)  
+![Ratings and Rental Duration](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/COMPARE_LENGTH.png)  
 
 ### 20. Replacement Costs in Relation to Rental Rates  
-![Replacement Cost Analysis](images/MIN_MAX_AVG.png)  
+![Replacement Cost Analysis](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RENTAL_VS_REPLACEMENT.png)  
 
 ### 21. Customers with Fewer Than 15 Rentals  
-![Low Rental Customers](images/less_15.png)  
+![Low Rental Customers](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/Less_15.png)  
 
 ### 22. Longest Films Sorted by Length and Rental Rate  
 ![Longest Films](images/longestfilms_sort.png)  
