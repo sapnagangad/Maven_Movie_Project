@@ -81,7 +81,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Rental Popularity](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/POPULARITY.png)  
 
 ### 8. Top 10 Highest Grossing Films  
-![Revenue per Film](images/REVENUE.png)  
+![Revenue per Film](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/REVENUE_PER_MOVIE.png)  
 
 ### 9. Customer with the Highest Spending  
 ![Most Spending Customer](images/MOST_SPENDING_CUSTOMER.png)  
