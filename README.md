@@ -75,7 +75,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Rating per Store](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/RATING_TO_STORE.png)  
 
 ### 6. Film List by Title, Category, and Language  
-![Film List](images/TLC.png)  
+![Film List](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/TITLE_CATEGORY_LANGUAGE.png)  
 
 ### 7. Popularity of Rentals (Frequency Analysis)  
 ![Rental Popularity](images/popularity.png)  
