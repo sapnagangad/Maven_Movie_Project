@@ -66,7 +66,7 @@ By applying **SQL queries and exploratory analysis**, the project demonstrates h
 ![Cheapest Rental](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/CHEAPEST_RENTAL_%240.99.png)  
 
 ### 3. Distribution of Rental Rates  
-![Rental Rate Distribution](images/TOTAL_NO_OF_MOVIES.png)  
+![Rental Rate Distribution](https://github.com/sapnagangad/Maven_Movie_Project/blob/main/code_output/TOTAL_NUMBER_OF_MOVIES.png)  
 
 ### 4. Most Frequent Movie Rating  
 ![Rating Count](images/rating_wise_count.png)  
